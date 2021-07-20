@@ -7,6 +7,6 @@ This tool can be used to
 - each day, new download is started at 11am and a new line is added this file 
 - with this, personal health status can be tracked on daily basis
 
- --> I use the tool to track my daily helth status in relation to environmental distortions
+ --> I use the tool to track my daily health status in relation to environmental distortions
  
  the java main file is located at /gui/PollenGUI.java
