@@ -1,4 +1,9 @@
 # pollen
+ Java 14 [JDK-14.0.2]
+ 
+ Eclipse IDE Version: 2020-12 (4.18.0)
+ 
+ Window-Builder implemented in Eclipse
  
 This tool can be used to 
 - download DWD Pollen status on daily basis
