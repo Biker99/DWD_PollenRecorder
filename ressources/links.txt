@@ -1,9 +1,0 @@
-https://community.openhab.org/t/solved-json-path-dwd-deutscher-wetterdienst-pollenflug-pollen-flying/45139
-
-https://opendata.dwd.de/climate_environment/health/alerts/s31fg.json
-
-Hello, is it possible tp get the UV-Index from the DWD-Site? The JSON-File ist here: https://opendata.dwd.de/climate_environment/health/alerts/uvi.json 16
-and the dokumentation is here:
-https://opendata.dwd.de/climate_environment/health/alerts/Beschreibung_uvi.pdf 17
-
-It seems very similar but I don’t know how to use it.
