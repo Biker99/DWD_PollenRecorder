@@ -1,4 +1,4 @@
-package pollen.json;
+package DWD_PollenRecorder.json;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

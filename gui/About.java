@@ -1,4 +1,4 @@
-package pollen.gui;
+package DWD_PollenRecorder.gui;
 
 import java.awt.BorderLayout;
 import javax.swing.JDialog;

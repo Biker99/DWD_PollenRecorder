@@ -1,9 +1,9 @@
-package pollen.common;
+package DWD_PollenRecorder.common;
 
-import pollen.gui.Settings;
-import pollen.json.JSONLoadObjectPollen;
-import pollen.json.JSON_DecodePollen;
-import pollen.gui.PollenGUI;
+import DWD_PollenRecorder.gui.Settings;
+import DWD_PollenRecorder.json.JSONLoadObjectPollen;
+import DWD_PollenRecorder.json.JSON_DecodePollen;
+import DWD_PollenRecorder.gui.PollenGUI;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

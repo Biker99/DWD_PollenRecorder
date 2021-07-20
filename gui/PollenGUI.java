@@ -1,4 +1,4 @@
-package pollen.gui;
+package DWD_PollenRecorder.gui;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -26,7 +26,7 @@ import java.awt.Font;
 import java.awt.Dimension;
 import java.awt.EventQueue;
 
-import pollen.common.AktualisierenPollen;
+import DWD_PollenRecorder.common.AktualisierenPollen;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 

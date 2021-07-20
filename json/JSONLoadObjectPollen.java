@@ -1,5 +1,5 @@
 
-package pollen.json;
+package DWD_PollenRecorder.json;
 
 import java.io.IOException;
 import java.io.InputStream;
